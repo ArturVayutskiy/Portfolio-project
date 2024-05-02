@@ -1,6 +1,3 @@
-
-# This is GOIT "Javascript Team Project"(project-syntax-samurais-02)
-
 ### Actions after copy Project from GitHub to local machine
 1. Install dependency: `npm install`
 2. Start project: `npm run dev`
