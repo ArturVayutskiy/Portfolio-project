@@ -1,11 +1,11 @@
 {
-  "name": "project-syntax-samurais-02",
+  "name": "Portfolio-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-syntax-samurais-02/",
+    "build": "vite build --base=/Portfolio-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -21,6 +21,6 @@
     "vite-plugin-full-reload": "^1.1.0",
     "vite-plugin-html-inject": "^1.1.2"
   },
-  "author": "Serhii Hudzenko <gudzsvmail@gmail.com>",
+  "author": "Artur Vayutskiy <vayutskiy@gmail.com>",
   "license": "MIT"
 }
